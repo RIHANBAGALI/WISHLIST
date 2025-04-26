@@ -1,1 +1,2 @@
 # WISHLIST
+print("hello world")
